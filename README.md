@@ -40,19 +40,10 @@ npm test
 ## Release History
 
 <details>
-<summary>0.1.1</summary>
-* FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-</details>
-
-<details>
-<summary>0.1.0</summary>
-* The first proper release
-* CHANGE: Rename `foo()` to `bar()`
-</details>
-
-<details>
-<summary>0.0.1</summary>
-* Work in progress
+<summary>1.0.0</summary>
+<ul>
+<li>Change</li>
+</ul>
 </details>
 
 ## Meta
