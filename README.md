@@ -1,4 +1,4 @@
-<img align="left" src="meta/icon.png" width="160" alt="Wrye Bash Icon">
+<img align="left" src="meta/icon.png" width="160" alt="Product Name">
 
 # Product Name
 > Short blurb about what your product does.
